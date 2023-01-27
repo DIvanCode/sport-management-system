@@ -1,0 +1,15 @@
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\bin\Debug\net6.0-windows\sport-management-system.exe
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\bin\Debug\net6.0-windows\sport-management-system.deps.json
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\bin\Debug\net6.0-windows\sport-management-system.runtimeconfig.json
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\bin\Debug\net6.0-windows\sport-management-system.dll
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\bin\Debug\net6.0-windows\sport-management-system.pdb
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.csproj.AssemblyReference.cache
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.GeneratedMSBuildEditorConfig.editorconfig
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.AssemblyInfoInputs.cache
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.AssemblyInfo.cs
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.csproj.CoreCompileInputs.cache
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.dll
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\refint\sport-management-system.dll
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.pdb
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\sport-management-system.genruntimeconfig.cache
+C:\spbu\prog\Основы программирования\oop-2022-csharp-sport-management-system-b09-supersoft\sport-management-system\sport-management-system\obj\Debug\net6.0-windows\ref\sport-management-system.dll

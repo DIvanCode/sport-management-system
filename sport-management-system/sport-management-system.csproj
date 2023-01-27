@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net6.0-windows</TargetFramework>
+        <RootNamespace>sport_management_system</RootNamespace>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Update="frontend\StartProtocolPage.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="frontend\library\ReturnButton.cs">
+        <SubType>Component</SubType>
+      </Compile>
+      <Compile Update="frontend\GroupsPage.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="frontend\TeamsResultsProtocolPage.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="frontend\GroupPage.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="frontend\ResultProtocolPage.cs">
+        <SubType>Form</SubType>
+      </Compile>
+    </ItemGroup>
+
+</Project>
